@@ -31,6 +31,6 @@
         <user_role display_value="x_snc_my_garbage.user" name="x_snc_my_garbage.user">3fa58c9d13e11200bfa257b32244b014</user_role>
         <vendor/>
         <vendor_prefix/>
-        <version>1.0.0</version>
+        <version>1.0.1</version>
     </sys_app>
 </record_update>
