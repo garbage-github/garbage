@@ -8,7 +8,7 @@
         <hint/>
         <name>my_garbage</name>
         <order/>
-        <roles>x_snc_my_garbage.user</roles>
+        <roles>x_snc_my_garbage.user,admin</roles>
         <sys_class_name>sys_app_application</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2016-02-12 00:51:48</sys_created_on>
@@ -16,7 +16,7 @@
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
         <sys_id>37a58c9d13e11200bfa257b32244b014</sys_id>
-        <sys_mod_count>1</sys_mod_count>
+        <sys_mod_count>2</sys_mod_count>
         <sys_name>my_garbage</sys_name>
         <sys_overrides/>
         <sys_package display_value="my_garbage" source="x_snc_my_garbage">73a50c5d13e11200bfa257b32244b09c</sys_package>
@@ -25,7 +25,7 @@
         <sys_scope display_value="my_garbage">73a50c5d13e11200bfa257b32244b09c</sys_scope>
         <sys_update_name>sys_app_application_37a58c9d13e11200bfa257b32244b014</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2016-02-12 00:51:48</sys_updated_on>
+        <sys_updated_on>2016-02-12 18:44:42</sys_updated_on>
         <title>my_garbage</title>
         <view_name/>
     </sys_app_application>
